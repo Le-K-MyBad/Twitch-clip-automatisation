@@ -1,0 +1,9 @@
+{
+  "twitch_client_id": "YOUR_TWITCH_CLIENT_ID",
+  "twitch_oauth_token": "YOUR_TWITCH_OAUTH_BEARER_TOKEN",
+  "category": "Just Chatting",
+  "days": 7,
+  "num_clips": 10,
+  "target_duration_minutes": 12,
+  "output_dir": "output"
+}
